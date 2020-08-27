@@ -1,7 +1,7 @@
 ### Hi there, I'm Ezra! 👋
 
 ## I'm a CS student in my 3rd year at York University 📓
----
+
 - I'm currently taking an interest in cryptography 
 - I'm working on my personal website and my discord bot
 - Looking to sharpen my skills in Vue.js
