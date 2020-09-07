@@ -4,7 +4,7 @@
 
 - I'm currently taking an interest in cryptography 
 - I'm working on my personal website and my discord bot
-- Looking to sharpen my skills in Vue.js
+- Improving my skills with Vue.js
 
 ### Software and Tools 💻
 
