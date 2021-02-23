@@ -8,7 +8,7 @@
 
 #### What I'm up to...
 
-- 🖥️ Building a full stack web app using React and Django
+- 🖥️ Building a full stack web app using React, Tailwind, and Node.js
 - 📱 Optimizing my portfolio website for mobile phones
 - 🤖 Adding new features to my discord bot
 - 🏀 Wondering if I can use ML to help me with my fantasy basketball team
