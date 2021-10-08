@@ -2,7 +2,7 @@
 
 #### I'm a software developer based in Toronto, ON, Canada.
 
-- 📓 In the third year of Computer Science degree at York University
+- 📓 In the fourth year of Computer Science degree at York University
 - ⚙️ Programming languages I'm familiar with: `HTML/CSS`, `JavaScript`, `Java`, `Python`, `SQL`
 - 💻 Web development tools I've used: `React.js`, `Vue.js`, `Tailwind.css`, `Bootstrap`
 
