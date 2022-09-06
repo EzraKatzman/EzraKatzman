@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezra! 👋
 
-#### I'm a software developer based in Toronto, ON, Canada.
+#### I'm a software developer based in Herzliya, Israel
 
 - 📓 Graduate of York University Computer Science
 - ⚙️ Programming languages I'm familiar with: `HTML/CSS`, `JavaScript`, `Java`, `Python`, `SQL`
