@@ -1,14 +1,37 @@
-### Hi there, I'm Ezra! 👋
+# Hi, I'm Ezra 👋
 
-#### I'm a software developer based in Herzliya, Israel
+I'm a full-stack developer focused on building practical, user-centered applications. I enjoy solving real-world problems with clean code and thoughtful architecture.
 
-- 📓 Graduate of York University Computer Science
-- ⚙️ Programming languages I'm familiar with: `HTML/CSS`, `JavaScript`, `Java`, `Python`, `SQL`
-- 💻 Web development tools I've used: `React.js`, `Vue.js`, `Tailwind.css`, `Bootstrap`
+## Featured Projects
 
-#### What I'm up to...
+### [Librio](https://github.com/EzraKatzman/Librio)
+A full-stack book library management system with mobile and web applications.
 
-- 🖥️ Building a full stack web app using React, Tailwind, and Node.js
-- 📱 Optimizing my portfolio website for mobile phones
-- 🤖 Adding new features to my discord bot
-- 🏀 Wondering if I can use ML to help me with my fantasy basketball team
+### [KeyFisher](https://github.com/EzraKatzman/KeyFisher)
+A security tool for detecting leaked credentials in GitHub organizations.
+
+### [NBA Fantasy Draft Companion](https://github.com/EzraKatzman/NBA-Fantasy-Draft-Companion)
+A Python-based tool for NBA fantasy basketball drafting using the 9-CAT scoring system.
+
+### [Inboxless](https://github.com/EzraKatzman/Inboxless)
+A fast, disposable email service built in Go with real-time messaging and auto-expiring inboxes.
+
+## Technologies & Tools
+
+**Languages**  
+`Python` • `JavaScript` • `TypeScript` • `Java` • `SQL` • `HTML` • `CSS`
+
+**Frontend**  
+`React` • `Next.js` • `Vue` • `React Native` • `Expo` • `Vite` • `Tailwind CSS`
+
+**Backend**  
+`Node.js` • `Express` • `FastAPI` • `Flask`
+
+**Databases & ORMs**  
+`SQLite` • `SQL` • `Prisma`
+
+**DevOps & Tools**  
+`Git` • `Docker` • `WebSockets` • `Socket.io`
+
+**APIs & Integration**  
+`REST APIs` • `External API Integration` • `Real-time Communication`
